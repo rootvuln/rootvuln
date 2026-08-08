@@ -11,75 +11,75 @@
 <br/>
 
 <table>
-  <tr>
-    <td valign="top" width="55%">
-      <pre>
+<tr>
+<td width="55%" valign="top">
 
+```bash
 ╔══════════════════════════════════════════════╗
-║   rootvuln@security-research — ~/profile    ║
+║   rootvuln@security-research — ~/profile     ║
 ╠══════════════════════════════════════════════╣
 ║                                              ║
 ║  $ whoami                                    ║
 ║  > Vineet Kumar                              ║
-║  > Application Security Student              ║
-║  > Bug Bounty Hunter                         ║
+║  > Application Security Student             ║
+║  > Bug Bounty Hunter                        ║
 ║                                              ║
 ║  $ cat identity.txt                          ║
-║  > Application Security                      ║
-║  > Bug Bounty                                ║
-║  > Web Security                              ║
-║  > Security Research                         ║
-║  > Technical Writing                         ║
+║  > Application Security                     ║
+║  > Bug Bounty                               ║
+║  > Web Security                             ║
+║  > Security Research                        ║
+║  > Technical Writing                        ║
 ║                                              ║
 ║  $ cat mission.txt                           ║
-║  > My goal isn't just finding                ║
-║  > vulnerabilities.                          ║
-║  > I want to understand applications         ║
-║  > deeply enough to break them               ║
-║  > responsibly — and help secure them.       ║
+║  > My goal isn't just finding               ║
+║  > vulnerabilities.                         ║
+║  > I want to understand applications        ║
+║  > deeply enough to break them              ║
+║  > responsibly — and help secure them.      ║
 ║                                              ║
 ║  $ _                                         ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
+```
 
-      </pre>
-    </td>
-    <td valign="top" width="45%">
-      <pre>
+</td>
+<td width="45%" valign="top">
 
+```
 ╔═══════════════════════════════════════╗
 ║   identity@rootvuln — ~/status        ║
 ╠═══════════════════════════════════════╣
 ║                                       ║
-║  ██████╗  ██████╗  ██████╗ ████████╗  ║
-║  ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝  ║
-║  ██████╔╝██║   ██║██║   ██║   ██║     ║
-║  ██╔══██╗██║   ██║██║   ██║   ██║     ║
-║  ██║  ██║╚██████╔╝╚██████╔╝   ██║     ║
-║  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝     ║
+║  ██████╗  ██████╗  ██████╗ ████████╗ ║
+║  ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝ ║
+║  ██████╔╝██║   ██║██║   ██║   ██║    ║
+║  ██╔══██╗██║   ██║██║   ██║   ██║    ║
+║  ██║  ██║╚██████╔╝╚██████╔╝   ██║    ║
+║  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝    ║
 ║                                       ║
-║  ██╗   ██╗██╗   ██╗██╗     ███╗  ██╗  ║
-║  ██║   ██║██║   ██║██║     ████╗ ██║  ║
-║  ██║   ██║██║   ██║██║     ██╔██╗██║  ║
-║  ╚██╗ ██╔╝██║   ██║██║     ██║╚████║  ║
-║   ╚████╔╝ ╚██████╔╝███████╗██║ ╚███║  ║
-║    ╚═══╝   ╚═════╝ ╚══════╝╚═╝  ╚══╝  ║
+║  ██╗   ██╗██╗   ██╗██╗     ███╗  ██╗ ║
+║  ██║   ██║██║   ██║██║     ████╗ ██║ ║
+║  ██║   ██║██║   ██║██║     ██╔██╗██║ ║
+║  ╚██╗ ██╔╝██║   ██║██║     ██║╚████║ ║
+║   ╚████╔╝ ╚██████╔╝███████╗██║ ╚███║ ║
+║    ╚═══╝   ╚═════╝ ╚══════╝╚═╝  ╚══╝ ║
 ║                                       ║
 ║          Vineet Kumar                 ║
 ║                                       ║
 ║  $ status                             ║
-║  [+] Application Security             ║
-║  [+] Bug Bounty Hunter                ║
-║  [+] Security Research                ║
-║  [+] Continuously Learning            ║
-║  [+] Top 1% TryHackMe                 ║
-║  [+] AppSec Intern                    ║
+║  [+] Application Security            ║
+║  [+] Bug Bounty Hunter               ║
+║  [+] Security Research               ║
+║  [+] Continuously Learning           ║
+║  [+] Top 1% TryHackMe                ║
+║  [+] AppSec Intern                   ║
 ║                                       ║
 ╚═══════════════════════════════════════╝
+```
 
-      </pre>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <br/>
