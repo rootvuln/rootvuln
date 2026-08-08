@@ -10,76 +10,61 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-```bash
-╔══════════════════════════════════════════════╗
-║   rootvuln@security-research — ~/profile     ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  $ whoami                                    ║
-║  > Vineet Kumar                              ║
-║  > Application Security Student             ║
-║  > Bug Bounty Hunter                        ║
-║                                              ║
-║  $ cat identity.txt                          ║
-║  > Application Security                     ║
-║  > Bug Bounty                               ║
-║  > Web Security                             ║
-║  > Security Research                        ║
-║  > Technical Writing                        ║
-║                                              ║
-║  $ cat mission.txt                           ║
-║  > My goal isn't just finding               ║
-║  > vulnerabilities.                         ║
-║  > I want to understand applications        ║
-║  > deeply enough to break them              ║
-║  > responsibly — and help secure them.      ║
-║                                              ║
-║  $ _                                         ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-</td>
-<td width="45%" valign="top">
-
-```
-╔═══════════════════════════════════════╗
-║   identity@rootvuln — ~/status        ║
-╠═══════════════════════════════════════╣
-║                                       ║
-║  ██████╗  ██████╗  ██████╗ ████████╗ ║
-║  ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝ ║
-║  ██████╔╝██║   ██║██║   ██║   ██║    ║
-║  ██╔══██╗██║   ██║██║   ██║   ██║    ║
-║  ██║  ██║╚██████╔╝╚██████╔╝   ██║    ║
-║  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝    ║
-║                                       ║
-║  ██╗   ██╗██╗   ██╗██╗     ███╗  ██╗ ║
-║  ██║   ██║██║   ██║██║     ████╗ ██║ ║
-║  ██║   ██║██║   ██║██║     ██╔██╗██║ ║
-║  ╚██╗ ██╔╝██║   ██║██║     ██║╚████║ ║
-║   ╚████╔╝ ╚██████╔╝███████╗██║ ╚███║ ║
-║    ╚═══╝   ╚═════╝ ╚══════╝╚═╝  ╚══╝ ║
-║                                       ║
-║          Vineet Kumar                 ║
-║                                       ║
-║  $ status                             ║
-║  [+] Application Security            ║
-║  [+] Bug Bounty Hunter               ║
-║  [+] Security Research               ║
-║  [+] Continuously Learning           ║
-║  [+] Top 1% TryHackMe                ║
-║  [+] AppSec Intern                   ║
-║                                       ║
-╚═══════════════════════════════════════╝
-```
-
-</td>
-</tr>
+<table width="100%" style="width:100%; table-layout:fixed;">
+  <tr>
+    <td width="50%" valign="top">
+<pre style="width:100%;"><code>+----------------------------------------------+
+| rootvuln@security-research -- ~/profile      |
++----------------------------------------------+
+|                                              |
+| $ whoami                                     |
+| > Vineet Kumar                               |
+| > Application Security Student               |
+| > Bug Bounty Hunter                          |
+|                                              |
+| $ cat identity.txt                           |
+| > Application Security                       |
+| > Bug Bounty                                 |
+| > Web Security                               |
+| > Security Research                          |
+| > Technical Writing                          |
+|                                              |
+| $ cat mission.txt                            |
+| > My goal isn't just finding                 |
+| > vulnerabilities.                           |
+| > I want to understand applications          |
+| > deeply enough to break them                |
+| > responsibly -- and help secure them.       |
+|                                              |
+| $ _                                          |
+|                                              |
++----------------------------------------------+</code></pre>
+    </td>
+    <td width="50%" valign="top">
+<pre style="width:100%;"><code>+----------------------------------------------+
+| identity@rootvuln -- ~/status                |
++----------------------------------------------+
+|                                              |
+|  R O O T  V U L N                            |
+|                                              |
+|  Vineet Kumar                                |
+|                                              |
+| $ status                                     |
+| [+] Application Security                     |
+| [+] Bug Bounty Hunter                        |
+| [+] Security Research                        |
+| [+] Continuously Learning                    |
+| [+] Top 1% TryHackMe                         |
+| [+] AppSec Intern                            |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
++----------------------------------------------+</code></pre>
+    </td>
+  </tr>
 </table>
 
 <br/>
